@@ -1,4 +1,4 @@
-# Landing Page Project
+# ✈️ Landing Page Project 
 
 This is a landing page project. I chose [The Odin Project](https://www.theodinproject.com/) curriculum as the theme for this project for I feel grateful I'm learning to code with them.
 
