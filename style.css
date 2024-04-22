@@ -1,0 +1,41 @@
+/* Global Styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #000000;
+}
+
+body {
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: white;
+}
+
+.content-width {
+  /* Defines the width of the sections and centers the content */
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.join-button {
+  padding: 12px 62px;
+  background-color: #3882f6;
+  border-radius: 5px;
+  border: solid 1px #dbd6d6;
+  font-size: 1.2em;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #e5e7eb;
+}
