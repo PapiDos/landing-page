@@ -39,3 +39,33 @@ a {
   text-decoration: none;
   color: #e5e7eb;
 }
+
+/* Header & Navbar */
+.header {
+  background-color: #33435a;
+  padding: .8em;
+  color: #f9faf8;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1em;
+  font-size: 1.3em;
+}
+
+.logo {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+}
+
+.logo a {
+  font-size: 26px;
+  font-weight: bold;
+}
