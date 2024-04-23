@@ -69,3 +69,39 @@ nav {
   font-size: 26px;
   font-weight: bold;
 }
+
+/* Hero Section */
+.hero-container {
+  background-color: #33435a;
+  padding: 1em;
+  color: #f9faf8;
+}
+
+.hero-section {
+  padding: 3em 0 5em 0;
+  display: flex;
+  gap: 2em;
+  justify-content: center;
+}
+
+.hero-section>* {
+  flex: 1;
+}
+
+.hero-section img {
+  border-radius: 5px;
+  border: 2px solid white;
+}
+
+.hero-text h1 {
+  font-size: 48px;
+  line-height: 1em;
+  margin-bottom: 8px;
+}
+
+.hero-text p {
+  font-size: 24px;
+  margin-bottom: 12px;
+  line-height: 1.5em;
+  margin-bottom: 1em;
+}
