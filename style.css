@@ -130,3 +130,30 @@ nav {
   border-radius: 50%;
   margin-bottom: 8px;
 }
+
+/* Quote Section*/
+.quote-container {
+  background-color: #fff5d7;
+  font-size: 36px;
+  padding: 2.5em 0;
+}
+
+.quote {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.author-img {
+  max-width: 300px;
+  width: 100%;
+  border-radius: 50%;
+  box-shadow: 1px 1px 12px #131010;
+}
+
+.author-name {
+  max-width: 1200px;
+  margin: 0 auto;
+  font-size: 26px;
+  text-align: right;
+}
