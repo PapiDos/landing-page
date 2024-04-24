@@ -1,6 +1,6 @@
-# ✈️ Landing Page Project 
+# ✈️ Landing Page Project
 
-This is a landing page project. I chose [The Odin Project](https://www.theodinproject.com/) curriculum as the theme for this project for I feel grateful I'm learning to code with them.
+This is a landing page project. I chose [The Odin Project](https://www.theodinproject.com/) curriculum as the theme for this project for I feel grateful I'm learning to code with them. The site is already live [here🌐](https://papidos.github.io/landing-page/)
 
 ## Project Purpose
 
@@ -16,7 +16,7 @@ The main purpose of this project is to implement what I've learned so far (HTML 
 
 ## Future Enhancements
 
-As I progress through the curriculum, I might revisit this project to add some functionality with JavaScript.
+As I progress through the curriculum, I might revisit this project to add some functionality with JavaScript and responsiveness with CSS.
 
 ## About The Odin Project
 
