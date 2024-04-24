@@ -157,3 +157,34 @@ nav {
   font-size: 26px;
   text-align: right;
 }
+
+/* Call to action section */
+.cta-container {
+  background-color: #3882f6;
+  max-width: 1200px;
+  margin: 5em auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #f9faf8;
+  padding: 3em 9em;
+  border-radius: 10px;
+}
+
+.cta-title {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.cta-description {
+  font-size: 1.2em;
+}
+
+/* Footer*/
+footer {
+  background-color: #33435a;
+  padding: 3em;
+  color: #e5e7eb;
+  text-align: center;
+}
